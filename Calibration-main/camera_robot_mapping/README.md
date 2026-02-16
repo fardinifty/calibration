@@ -1,7 +1,7 @@
 # Camera to Robot Coordinate Mapping using Homography
-**Git Hub Link:**https://github.com/enamulhqdk/Calibration
+**Git Hub Link:**https://github.com/fardinifty/calibration
 **Group members:**  
-Choton Enamul , Nizam Sabiha , Taqi Muhammad  
+Mayeesha Fairuz Ariba, Fardin Hossain Ifty
 **Course:** Machine vision  
 **Date:** 13/02/2026  
 
