@@ -4,7 +4,7 @@ https://github.com/enamulhqdk/Calibration
 
 
 **Group members:**  
-Choton Enamul , Nizam Sabiha , Taqi Muhammad  
+Mayeesha Fairuz Ariba, Fardin Hossain Ifty 
 **Course:** Machine vision  
 **Date:** 13/02/2026  
 
